@@ -1,4 +1,4 @@
-'esse é o programa mais novo que fiz
+'esse é o programa mais novo que fiz, mas também não é novo tem tipo 4 anos
 
 x=msgbox ("AVISO: o uso da extencao https every where e extremamente recomendado.",16,"AVISOS")
 x=msgbox ("AVISO: essa ferramenta so acessa sites terminados com .com",16,"AVISOS")
